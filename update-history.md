@@ -1,3 +1,10 @@
+## v2.0.0 · 2026-11-17
+
+- · 架构重构，迁移包名
+
+- · 基于 KernelSU 与 SukiSU 构建：UI 模板来自 KernelSU，主题系统来自 SukiSU
+  （https://github.com/tiann/KernelSU · https://github.com/SukiSU-Nova/SukiSU-Nova）
+
 ## v1.6.5 · 2026-11-02
 
 - · YS 头像四场景：外显 / 内显 / 同双 / 异双
